@@ -43,10 +43,106 @@
 
 }
 
-.tg-color-blue {
-    color: red !important;
-}
+/* TG-STYLES */
 
-.osh {
-color: #fff;
-}
+a {
+	text-decoration: none !important;
+  }
+  
+  .tg-h1 {
+	font-size: 50px;
+	line-height: 40px;
+text-transform: uppercase;
+    font-family: Metronic Pro Air, Metronic;
+  }
+  
+  h1:empty {
+	display: none !important;
+  }
+  
+  .tg-h2 {
+	font-size: 35px !important;
+	line-height: 40px;
+    font-family: Metronic Pro Air, Metronic;
+  }
+  
+  .tg-h3 {
+	font-size: 28px !important;
+	line-height: 31px;
+	font-style: normal !important;
+    font-family: Metronic Pro Air, Metronic;
+  }
+  
+  .tg-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  .tg-flex-start {
+	align-items: flex-start !important;
+  }
+  .tg-flex-col {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+	flex: 1 1 0;
+	width: 0;
+  }
+
+.tg-gap-20 {gap: 20px}
+  
+  .tg-text {
+	font-size: 15px;
+    font-family: Metronic Pro Light;
+  }
+  
+  .tg-center {
+	text-align: center;
+	margin: auto;
+  }
+  
+  .tg-bold {
+	font-weight: 600;
+  }
+  
+  .tg-light {
+	font-weight: 100;
+  }
+  
+  .tg-color-white {
+	color: #fff !important;
+  }
+  
+  .tg-color-red {
+	color: #BC141A !important;
+  }
+  .tg-container-50 {
+	width: 50%;
+  }
+  
+  .tg-padding-10 {
+	padding: 10px !important;
+  }
+
+  .tg-padding-20 {
+	padding: 20px !important;
+  }
+  .tg-space-10 {
+	margin-bottom: 10px !important;
+  }
+  
+  .tg-space-20 {
+	margin-bottom: 20px !important;
+  }
+  .tg-space-30 {
+	margin-bottom: 20px !important;
+  }
+  .tg-space-50 {
+	margin-bottom: 50px !important;
+  }
+  .tg-space-100 {
+	margin-bottom: 100px !important;
+  }
+  
+  /* TG-STYLES */
