@@ -43,6 +43,53 @@
 
 }
 
+
+@font-face {
+    font-family: 'Metronic Pro Light Italic';
+    src: url('metronicprolight-italic-webfont.woff2') format('woff2'),
+         url('metronicprolight-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Metronic Pro Light';
+    src: url('metronicprolight-webfont.woff2') format('woff2'),
+         url('metronicprolight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metronic_pro_condensedLtIt';
+    src: url('metronicprolightcondensed-itali-webfont.woff2') format('woff2'),
+         url('metronicprolightcondensed-itali-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Metronic Pro Light Condensed';
+    src: url('metronicprolightcondensed-webfont.woff2') format('woff2'),
+         url('metronicprolightcondensed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 /* TG-STYLES */
 
 a {
