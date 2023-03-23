@@ -283,5 +283,14 @@ text-transform: uppercase;
   .tg-space-100 {
 	margin-bottom: 100px !important;
   }
-  
+  .button-overlay {
+    position: absolute;
+    width: 100% !important;
+    height: 100%;
+    object-fit: contain;
+    top: 0;
+    left: 0;
+    margin: 0 !important;
+    z-index: 10;
+}
   /* TG-STYLES */
